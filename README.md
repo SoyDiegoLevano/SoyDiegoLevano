@@ -17,11 +17,6 @@
 <br><br>
 
 - :school: Egresado de la carrera de `Desarrollo de Software`.
-
-
-
-
-Puedes visitar mi página web.
 - :technologist: Me gusta utilizar el Software para solucionar `Problemas`.
 - :student: Sigo aprendiendo sobre `Ing. de Software` y `Ciencias de la Computación`.
 - :computer: Abierto a `nuevos aprendizajes`.
