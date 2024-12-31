@@ -40,8 +40,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/diegolevanososa/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
-<a href = 'https://diegolevano.live'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=web"/></a> 
-<a href = 'https://www.github.com/SoyDiegoLevano'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=github"/></a>
+<a href = 'https://www.github.com/SoyDiegoLevano'> <img align= 'center' src="https://skillicons.dev/icons?i=github"/></a>
 <a href="https://discordapp.com/users/1314453984714559518" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="50" width="50" /></a>
   
 </p>
