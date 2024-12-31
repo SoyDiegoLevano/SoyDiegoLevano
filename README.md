@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=750&width=350&lines=Desarrollador+de+Software;Apasionado+por+la+Tecnolog%C3%ADa;Enfocado+en+el+Front-End"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=350&lines=Desarrollador+de+Software;Apasionado+por+la+Tecnolog%C3%ADa;Enfocado+en+el+Front-End"/>
 </p>
 
 
