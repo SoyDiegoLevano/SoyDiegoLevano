@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=450&lines=Desarrollador+de+Software;Apasionado+por+la+Tecnolog%C3%ADa;Enfocado+en+el+Front-End)](https://git.io/typing-svg"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=450&lines=Desarrollador+de+Software;Apasionado+por+la+Tecnolog%C3%ADa;Enfocado+en+el+Front-End"/>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mí
