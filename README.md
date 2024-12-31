@@ -34,7 +34,7 @@
 </p>
 
 
-## <picture> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </picture> Contáctame 
+## <picture> <img src='https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true' width="45px"> </picture> Contáctame 
 
 
 <!--icons and links-->
