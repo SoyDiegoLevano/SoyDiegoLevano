@@ -25,8 +25,8 @@
 <br>
 
 
-## <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </picture> Tecnologías
-
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 45px>  </picture> Tecnologías
+ 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,tailwind,js,css,html,mysql,sqlite,postgresql,postman,sass,bootstrap,materialui,figma,php,nodejs,py,git,github,vscode,docker,npm,vite,obsidian,notion&perline=14" />
@@ -34,8 +34,10 @@
 </p>
 
 
-## <picture> <img src='https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true' width="45px"> </picture> Contáctame 
+<!--     ## <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45px"> </picture> Portafolio (gif mostrando portafolio)     -->
 
+
+## <picture> <img src='https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true' width="45px"> </picture> Contáctame 
 
 <!--icons and links-->
 <p align="center">
