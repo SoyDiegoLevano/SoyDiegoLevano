@@ -2,7 +2,6 @@
 
 <h1 align="center"><b>Hola, Soy Diego Levano </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=450&lines=Desarrollador+de+Software;Apasionado+por+la+Tecnolog%C3%ADa;Enfocado+en+el+Front-End"/>
@@ -14,7 +13,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
 - :school: Egresado de la carrera de `Desarrollo de Software`.
 - :technologist: Me gusta utilizar el Software para solucionar `Problemas`.
