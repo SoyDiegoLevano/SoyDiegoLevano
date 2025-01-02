@@ -18,7 +18,7 @@
 
 - :school: Egresado de la carrera de `Desarrollo de Software`.
 - :technologist: Me gusta utilizar el Software para solucionar `Problemas`.
-- :student:  Apasionado por la `tecnología` y dedicado a desarrollar `proyectos impactantes`.
+- :rocket:  Apasionado por la `tecnología` y dedicado a desarrollar `proyectos impactantes`.
 - :computer: Abierto a `nuevas experiencias laborales`.
 - :thinking: Si te `resulté interesante`, puedes obtener más información [AQUÍ](https://drive.google.com/file/d/1i3C-LulndqnJZvrhgYMekQ7RF4Y3Whrk/view?usp=sharing).
 - :boom: Puedes visitar [MI SITIO WEB](https://diegolevano.live).
