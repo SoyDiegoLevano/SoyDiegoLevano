@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,js,css,html,mysql,sqlite,postgresql,postman,sass,bootstrap,materialui,figma,php,nodejs,py,git,github,vscode,docker,npm,vite,obsidian,notion&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,js,css,html,mysql,sqlite,postgresql,postman,sass,bootstrap,materialui,figma,nodejs,py,git,github,vscode,npm,vite,obsidian,notion&perline=14" />
   </a>
 </p>
 
